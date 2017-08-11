@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+div {
+    padding: 15px;
+}
+.header {
+    background-color: lightpink ;
+    text-align: center;
+}
+.tagline {
+    background-color: #abc;
+}
+.skills {
+    background-color: lightgreen;
+}
+.contact {
+    background-color: darkorange;
+}
